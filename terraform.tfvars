@@ -1,0 +1,7 @@
+root_id                         = "koth"
+root_name                       = "King of the Hills"
+root_parent_management_group_id = ""
+starter_location                = "australiaeast"
+subscription_id_connectivity    = "8250c82a-67c9-4468-907d-159510b90202"
+subscription_id_identity        = "3036791b-8d6c-42b9-8315-9ee68de4df0e"
+subscription_id_management      = "5c26b1c0-e1c9-4a4e-9315-78ef503375bc"
